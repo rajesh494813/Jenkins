@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests.LoginpageTest" duration-ms="4224" started-at="2018-09-26T15:40:49Z" finished-at="2018-09-26T15:40:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4224" started-at="2018-09-26T15:40:49Z" finished-at="2018-09-26T15:40:53Z">
+      <class name="tests.LoginpageTest">
+        <test-method status="PASS" signature="Flights_Click()[pri:0, instance:tests.LoginpageTest@3796751b]" name="Flights_Click" duration-ms="7" started-at="2018-09-26T15:40:49Z" finished-at="2018-09-26T15:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flights_Click -->
+        <test-method status="PASS" signature="Launch()[pri:0, instance:tests.LoginpageTest@3796751b]" name="Launch" duration-ms="4188" started-at="2018-09-26T15:40:49Z" finished-at="2018-09-26T15:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+      </class> <!-- tests.LoginpageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.LoginpageTest -->
+</testng-results>
